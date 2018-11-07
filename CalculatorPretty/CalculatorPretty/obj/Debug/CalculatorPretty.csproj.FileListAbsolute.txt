@@ -1,0 +1,10 @@
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\bin\Debug\CalculatorPretty.exe.config
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\bin\Debug\CalculatorPretty.exe
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\bin\Debug\CalculatorPretty.pdb
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\obj\Debug\CalculatorPretty.csprojAssemblyReference.cache
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\obj\Debug\CalculatorPretty.Form1.resources
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\obj\Debug\CalculatorPretty.Properties.Resources.resources
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\obj\Debug\CalculatorPretty.csproj.GenerateResource.cache
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\obj\Debug\CalculatorPretty.csproj.CoreCompileInputs.cache
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\obj\Debug\CalculatorPretty.exe
+F:\Jamil\WORKSHOP\csharp-journey\CalculatorPretty\CalculatorPretty\obj\Debug\CalculatorPretty.pdb
